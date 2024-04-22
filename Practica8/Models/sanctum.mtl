@@ -1,0 +1,90 @@
+# Blender MTL File: 'sanctum.blend'
+# Material Count: 8
+
+newmtl MI_SC_E_Main_SanctumA01
+Ns 650.249991
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Descargas/sanctum-sanctorumdoctor-strange/source/G:/Blender/Megascans/Unreal MFR/ENVIRONMENT/ASSETS/NEWSTARKCITY/TEXTURES/STARKCITY_E/T_SC_E_SangctumA01_D.png
+
+newmtl MI_SC_Night_E_SangctumA02
+Ns 650.249991
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.200000 0.200000 0.200000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Descargas/sanctum-sanctorumdoctor-strange/source/G:/Blender/Megascans/Unreal MFR/ENVIRONMENT/ASSETS/NEWSTARKCITY/NIGHT/TEXTURES/T_SC_Night_E_SangctumA02_D.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctumatras.png
+
+newmtl delante
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctum.png
+
+newmtl der.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctum.png
+
+newmtl enfrente
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctum.png
+
+newmtl enfrente.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctum.png
+
+newmtl izq.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /home/axelnez/Documentos/8 semestre/compugrafica/lab/Axel/Practica7/sanctumizq.png
